@@ -24,3 +24,14 @@ h1, h2, h3, th {
 p, li, td, label {
   color: #D5D3C1;
 }
+
+form {
+  background-color: #375E3D;
+  width:100%;
+  min-height: 250px;
+  margin-top: 0px;
+  margin-bottom: 25px;
+  margin-left: 0px;
+  margin-right: 0px;
+  padding: 25px;
+}
