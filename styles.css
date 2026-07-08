@@ -27,12 +27,11 @@ p, li, td, label {
 
 form {
   background-color: #375E3D;
-  max-width: 400px;
-  margin: 0 auto;
+  max-width: 100%;
   min-height: 250px;
   margin-top: 0px;
   margin-bottom: 25px;
   margin-left: 0px;
-  margin-right: 0px;
+  margin-right: 25px;
   padding: 25px;
 }
