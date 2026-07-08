@@ -61,3 +61,15 @@ form {
   padding: 25px;
   border-radius: 15px;
 }
+
+.box {
+  background-color: #375E3D;
+  max-width: 100%;
+  min-height: 25px;
+  margin-top: 0px;
+  margin-bottom: 25px;
+  margin-left: 0px;
+  margin-right: 0px;
+  padding: 25px;
+  border-radius: 15px;
+}
