@@ -13,12 +13,16 @@ h1, h2, h3, p {
   font-family: Arial, Helvetica, sans-serif;
 }
 
-th, li, label {
+th, td, li, label {
   font-family: Arial, Helvetica, sans-serif;
 }
 
 h1, h2, h3, th {
   color: #CDB75F;
+}
+
+th {
+  text-align: left;
 }
 
 p, li, td, label {
