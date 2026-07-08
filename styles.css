@@ -3,3 +3,12 @@ html {
   padding: 25px;
   margin: 0px;
 }
+
+h1, h2, h3 {
+  color: #A7673E;
+  margin-top: 0px;
+  margin-bottom: 25px;
+  margin-left: 0px;
+  margin-right: 0px;
+  padding: 0px;
+}
